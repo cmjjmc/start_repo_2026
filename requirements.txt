@@ -1,0 +1,6 @@
+pandas
+streamlit
+databricks-sql-connector
+databricks-sdk
+dotenv
+streamlit-aggrid
